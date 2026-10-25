@@ -1,7 +1,5 @@
-.venv/
-__pycache__/
-*.pyc
-data/*.csv
-models/*.joblib
-results/*.csv
-results/*.json
+
+node_modules/
+dist/
+.env
+.env.local
