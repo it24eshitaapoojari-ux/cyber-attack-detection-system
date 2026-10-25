@@ -1,0 +1,8 @@
+{
+  "name": "AI Cyberattack Detection System",
+  "description": "Interactive machine-learning cyberattack detection dashboard classifying network flows from the UNSW-NB15 dataset using Random Forest and Logistic Regression models.",
+  "version": "1.0.0",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
